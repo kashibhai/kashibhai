@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **A web app using React and Node.js**
+
+- 🌱 I’m currently learning **React.js and modern frontend development Node.js and backend fundamentals**
+
+- 👯 I’m looking to collaborate on **projects that improve coding skills and teamwork.**
+
+- 🤝 I’m looking for help with **Building scalable web applications.**
+
+- 💬 Ask me about **full-stack development.**
+
 - 📫 How to reach me **kashibhaiedu@gmail.com**
 
 - ⚡ Fun fact **I can spend hours debugging, only to realize it was a missing semicolon 😅**
